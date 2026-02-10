@@ -1,29 +1,17 @@
-# Who Am I
-I am a passionate developer with experience in various programming languages and technology stacks. My goal is to build efficient, scalable, and user-friendly applications.
+# Technology Stack
 
-# What Am I Currently Working On
-I am currently engaged in multiple projects that involve:
-- **HTML/CSS**: Developing responsive web designs
-- **Java**: Building backend services
-- **JavaScript**: Creating interactive front-end components
-- **Python**: Data analysis and machine learning
-- **Node.js**: Implementing server-side logic
-- **Swift**: Developing iOS applications
-- **C/C++**: Working on system-level programming
-- **C#**: Developing desktop applications
-- **SQL**: Managing databases
-- **XAMPP**: Setting up local servers for development
+## Tech Stack Icons
 
-# What Tools Do I Use
-- **Code Editors**: Visual Studio Code, IntelliJ IDEA
-- **Version Control**: Git, GitHub
-- **Project Management**: Jira, Trello
-- **Communication**: Slack, Discord
-- **Design**: Figma, Adobe XD
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px;">
+  <img src="https://devicons.github.io/git/icons/git.svg" alt="Git" title="Git" width="50" height="50" />
+  <img src="https://devicons.github.io/git/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="50" height="50" />
+  <img src="https://devicons.github.io/git/icons/react.svg" alt="React" title="React" width="50" height="50" />
+  <img src="https://devicons.github.io/git/icons/nodejs.svg" alt="Node.js" title="Node.js" width="50" height="50" />
+  <img src="https://devicons.github.io/git/icons/java.svg" alt="Java" title="Java" width="50" height="50" />
+  <img src="https://devicons.github.io/git/icons/python.svg" alt="Python" title="Python" width="50" height="50" />
+  <img src="https://devicons.github.io/git/icons/cplusplus.svg" alt="C++" title="C++" width="50" height="50" />
+  <img src="https://devicons.github.io/git/icons/html5.svg" alt="HTML5" title="HTML5" width="50" height="50" />
+  <img src="https://devicons.github.io/git/icons/css3.svg" alt="CSS3" title="CSS3" width="50" height="50" />
+  <img src="https://devicons.github.io/git/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="50" height="50" />
+</div>
 
-# How to Reach Me
-Feel free to reach out to me via:
-- Email: [Your Email Here]
-- LinkedIn: [Your LinkedIn Profile Here]
-- Twitter: [Your Twitter Handle Here]
-- GitHub: [Your GitHub Profile Here]
