@@ -12,3 +12,22 @@ Welcome to the Jmnrsb repository! This is a space where I showcase my projects a
   </tr>
 </table>
 
+## About Me 🔍
+
+I am a passionate developer with experience in various technologies. I enjoy building web applications and exploring new programming languages.
+
+## Skills 💻
+
+- Web Development
+- API Development
+- Database Management
+- Version Control with Git
+
+## Contact Information 📞
+
+Feel free to reach out to me:
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+---
