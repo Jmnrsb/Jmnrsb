@@ -1,17 +1,15 @@
-# Technology Stack
+# Tech Stack
 
-## Tech Stack Icons
+## Technologies Used
 
-<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px;">
-  <img src="https://devicons.github.io/git/icons/git.svg" alt="Git" title="Git" width="50" height="50" />
-  <img src="https://devicons.github.io/git/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="50" height="50" />
-  <img src="https://devicons.github.io/git/icons/react.svg" alt="React" title="React" width="50" height="50" />
-  <img src="https://devicons.github.io/git/icons/nodejs.svg" alt="Node.js" title="Node.js" width="50" height="50" />
-  <img src="https://devicons.github.io/git/icons/java.svg" alt="Java" title="Java" width="50" height="50" />
-  <img src="https://devicons.github.io/git/icons/python.svg" alt="Python" title="Python" width="50" height="50" />
-  <img src="https://devicons.github.io/git/icons/cplusplus.svg" alt="C++" title="C++" width="50" height="50" />
-  <img src="https://devicons.github.io/git/icons/html5.svg" alt="HTML5" title="HTML5" width="50" height="50" />
-  <img src="https://devicons.github.io/git/icons/css3.svg" alt="CSS3" title="CSS3" width="50" height="50" />
-  <img src="https://devicons.github.io/git/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="50" height="50" />
-</div>
+Here is a grid of the technologies used in this project:
+
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react,vuejs,angular,nodejs,java,python" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,aws,typescript,html" /></td>
+  </tr>
+</table>
 
