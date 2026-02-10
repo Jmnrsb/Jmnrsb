@@ -28,6 +28,6 @@ I am a passionate developer with experience in various technologies. I enjoy bui
 Feel free to reach out to me:
 
 - **Email**: [narsubajohnmanuel@gmail.com](mailto:narsubajohnmanuel@gmail.com)
-- **LinkedIn**: [linkedin.com/in/john-manuel-narsuba-21487138b](linkedin.com/in/john-manuel-narsuba-21487138b)
+- **LinkedIn**: [https://www.linkedin.com/in/narsuba/](https://www.linkedin.com/in/narsuba/)
 
 ---
