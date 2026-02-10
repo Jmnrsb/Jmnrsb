@@ -1,13 +1,40 @@
-<h2>Tech Stack</h2>
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="background: linear-gradient(45deg, #E34F26, #F06529); color: white; padding: 10px; border-radius: 5px; margin: 5px;">HTML</div>
-    <div style="background: linear-gradient(45deg, #264DE4, #4F7B93); color: white; padding: 10px; border-radius: 5px; margin: 5px;">CSS</div>
-    <div style="background: linear-gradient(45deg, #F7DF1E, #E6A85B); color: black; padding: 10px; border-radius: 5px; margin: 5px;">JavaScript</div>
-    <div style="background: linear-gradient(45deg, #007396, #E4A14D); color: white; padding: 10px; border-radius: 5px; margin: 5px;">Java</div>
-    <div style="background: linear-gradient(45deg, #3776AB, #FFD43B); color: black; padding: 10px; border-radius: 5px; margin: 5px;">Python</div>
-    <div style="background: linear-gradient(45deg, #8CC84B, #3B873E); color: white; padding: 10px; border-radius: 5px; margin: 5px;">Node.js</div>
-    <div style="background: linear-gradient(45deg, #F7A7A9, #FF6F61); color: black; padding: 10px; border-radius: 5px; margin: 5px;">Swift</div>
-    <div style="background: linear-gradient(45deg, #00599C, #A8A29E); color: white; padding: 10px; border-radius: 5px; margin: 5px;">C</div>
-    <div style="background: linear-gradient(45deg, #178600, #A2C8C7); color: white; padding: 10px; border-radius: 5px; margin: 5px;">C#</div>
-    <div style="background: linear-gradient(45deg, #F34B20, #A78B00); color: white; padding: 10px; border-radius: 5px; margin: 5px;">C++</div>
-</div>
+# Welcome to My Repository! 🎉
+
+Welcome to the Jmnrsb repository! This is a space where I showcase my projects and skills as a developer.
+
+## Tech Stack 🛠️
+
+- **Languages**: 
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000000)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+  - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+  
+- **Frameworks**: 
+  - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+  - ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+  
+- **Databases**: 
+  - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+## About Me 🔍
+
+I am a passionate developer with experience in various technologies. I enjoy building web applications and exploring new programming languages.
+
+## Skills 💻
+
+- Web Development
+- API Development
+- Database Management
+- Version Control with Git
+
+## Contact Information 📞
+
+Feel free to reach out to me:
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+---
+
+Thank you for visiting my repository! Happy coding! 🚀
