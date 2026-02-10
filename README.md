@@ -1,4 +1,4 @@
-# Welcome to My Repository! 🎉
+# HI, I'M JM! 
 
 Welcome to the Jmnrsb repository! This is a space where I showcase my projects and skills as a developer.
 
@@ -27,7 +27,7 @@ I am a passionate developer with experience in various technologies. I enjoy bui
 
 Feel free to reach out to me:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email**: [your-email@example.com](mailto:narsubajohnmanuel@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](linkedin.com/in/john-manuel-narsuba-21487138b)
 
 ---
